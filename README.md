@@ -4,6 +4,16 @@ As the employment and recruitment data in the human resource market are too comp
 
 ![](https://github.com/NIANxxxFAC/Intelligent-Analysis-and-Display-System-of-Big-Data-for-Talent-Market/blob/main/System_Pictures/1.png)
 
+![](https://github.com/NIANxxxFAC/Intelligent-Analysis-and-Display-System-of-Big-Data-for-Talent-Market/blob/main/System_Pictures/2.png)
+
+![](https://github.com/NIANxxxFAC/Intelligent-Analysis-and-Display-System-of-Big-Data-for-Talent-Market/blob/main/System_Pictures/3.png)
+
+![](https://github.com/NIANxxxFAC/Intelligent-Analysis-and-Display-System-of-Big-Data-for-Talent-Market/blob/main/System_Pictures/4.png)
+
+![](https://github.com/NIANxxxFAC/Intelligent-Analysis-and-Display-System-of-Big-Data-for-Talent-Market/blob/main/System_Pictures/5.png)
+
+![](https://github.com/NIANxxxFAC/Intelligent-Analysis-and-Display-System-of-Big-Data-for-Talent-Market/blob/main/System_Pictures/6.png)
+
 The system consists of 6 functional modules, including dynamic display module, intelligent analysis module, scientific prediction module, comprehensive recommendation module, mobile terminal control module and data background management module.
 
 The dynamic display module classifies the acquired data according to different characteristics and displays dynamic real-time data in different charts.
