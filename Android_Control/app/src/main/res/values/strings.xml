@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">大数据</string>
+    <string name="entry">立即体验</string>
+    <string name="test_text">www.ocnyang.com</string>
+    <string name="Username">用户名</string>
+    <string name="Password">密码</string>
+    <string-array name="number_array">
+        <item>2000</item>
+        <item>4000</item>
+        <item>6000</item>
+        <item>8000</item>
+        <item>10000</item>
+        <item>12000</item>
+        <item>14000</item>
+        <item>16000</item>
+        <item>18000</item>
+        <item>20000</item>
+    </string-array>
+    <string-array name="style_array">
+        <item>追求刺激</item>
+        <item>享受安逸</item>
+    </string-array>
+    <string-array name="sex_array">
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="character_array">
+        <item>活泼外向</item>
+        <item>安静内向</item>
+    </string-array>
+    <string-array name="type_array">
+        <item>随缘</item>
+        <item>IT互联网通信</item>
+        <item>传媒印刷艺术设计</item>
+        <item>兼职实习</item>
+        <item>房产建筑物业管理</item>
+        <item>服务业</item>
+        <item>生产制造</item>
+        <item>能源环保农业科研</item>
+        <item>资讯法律教育翻译</item>
+        <item>采购贸易交通物流</item>
+        <item>金融</item>
+        <item>销售客服市场</item>
+        <item>项目质量高级管理</item>
+    </string-array>
+    <string name="nav_header_title">HuaLaLa</string>
+    <string name="nav_header_subtitle">我是一只小绵羊</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">设置</string>
+</resources>

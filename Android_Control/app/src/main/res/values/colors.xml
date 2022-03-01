@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D9DCE2</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#dd000000</color>
+    <color name="black">#dd000000</color>
+    <color name="white">#ffffffff</color>
+    <color name="cardbar">#FFFFFF</color>
+    <color name="logoScreenBackground">#F7F7F7</color>
+    <color name="colorCursor">#cccccc</color>
+    <color name="colorLoginButton">#004684</color>
+    <color name="transparent">#D9ffffff</color>
+</resources>
