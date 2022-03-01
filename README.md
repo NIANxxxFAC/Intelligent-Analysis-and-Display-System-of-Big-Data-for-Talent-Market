@@ -2,7 +2,7 @@
  
 As the employment and recruitment data in the human resource market are too complicated, the information of job intention and recruitment demand is not transparent, and the feedback of market information is not timely, it leads to the high cost for individuals, enterprises and universities to obtain information. In order to solve these problems in the human resource market, we have developed a large screen interactive system based on big data analysis and data visualization technology for the employment and recruitment market. This is a big data comprehensive project integrating dynamic display, intelligent analysis, scientific prediction, personalized recommendation, mobile terminal control and data background management. The system can provide clear information display and comprehensive data reference services for job seekers, enterprises and universities.
 
-[]https://github.com/NIANxxxFAC/Intelligent-Analysis-and-Display-System-of-Big-Data-for-Talent-Market/blob/main/System_Pictures/1.png
+[](https://github.com/NIANxxxFAC/Intelligent-Analysis-and-Display-System-of-Big-Data-for-Talent-Market/blob/main/System_Pictures/1.png)
 
 The system consists of 6 functional modules, including dynamic display module, intelligent analysis module, scientific prediction module, comprehensive recommendation module, mobile terminal control module and data background management module.
 
